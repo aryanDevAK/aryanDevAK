@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Khatri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Systems Engineer and Android Developer. I develop API's and Ecosystems for organization</h3>
 
 - 🔭 I’m currently working on [Hospital Management System](Coming soon)
 
