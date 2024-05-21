@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hospital Management System](Coming soon)
 
-- 🌱 I’m currently learning **AI/ML | React Native |**
+- 🌱 I’m currently learning **AI/ML | React Native**
 
 - 👨‍💻 All of my projects are available at [https://aryankhatri.netlify.app](https://aryankhatri.netlify.app)
 
