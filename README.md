@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Khatri</h1>
 <h3 align="center">A passionate Ecosystems Engineer and Android Developer. I develop API's and Ecosystems for organization</h3>
 
-- 🔭 I’m currently working on [Hospital Management System](Coming soon)
+- 🔭 I’m currently working on an AI for Healthcare named Medixify(Coming soon)
 
 - 🌱 I’m currently learning **AI/ML | React Native**
 
